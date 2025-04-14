@@ -1,0 +1,57 @@
+Alan Mathison Turing (23 de junio de 1912 - 7 de junio de 1954) fue un
+matemático inglés, informático, logico, criptoanalista, filósofo y
+biólogo teórico. Turing fue muy influyente en el desarrollo de la
+informática teorica, ya que proporcionó una formalización de los
+conceptos de algoritmo y computación con la máquina de Turing, que puede
+considerarse un modelo de una computadora de propósito general. Turing
+es ampliamente considerado como el padre de la informática teórica y la
+inteligencia artificial. A pesar de estos logros, nunca fue reconocido
+plenamente en su pais de origen durante su vida, debido a su
+homosexualidad, que en ese momento era un delito en el Reino Unido.
+
+Durante la Segunda Guerra Mundial, Turing trabajó para la Escuela
+Gubernamental de Codificación y Cifrado (GC&CS) en Bletchley Park, el
+centro de descifrado de códigos de Gran Bretana que produjo la
+inteligencia Ultra. Durante un tiempo, dirigió Hut 8, la sección
+responsable del criptoanálisis naval alemán. Aquí, ideó una serie de
+técnicas para aselerar la ruptura de los sistemas de cifrado alemanes,
+incluidas las mejoras del método de bombeo polaco antes de la guerra,
+una máquina electromecánica que podría encontrar ajustes para la máquina
+Enigma.
+
+Turing desempeñó un papel fundamental en el decifrado de mensajes
+codificados interceptados que permitieron a los Aliados derrotar a los
+nazis en muchos enfrentamientos cruciales, incluida la Batalla del
+Atlántico, y al hacerlo ayudaron a ganar la guerra. La historia
+contrafactual es difícil con respecto al efecto que tuvo la inteligencia
+ultra sobre la duración de la guerra, pero en el extremo superior se ha
+estimado que este trabajo acortó la guerra en Europa en más de dos años
+y salvó más de 14 millones de vidas.
+
+Después de la guerra, Turing trabajó en el Laboratorio Nacional de
+Física, donde diseñó el Motor de Computación Automática, que fue uno de
+los primeros diseños para una computadora de programa almacenado. En
+1948, Turing se unió al Laboratorio de Máquinas de Computación de Max
+Newman en la Universidad Victoria de Manchester, donde ayudó a
+desarrollar las computadoras de Manchester y se interesó en la biología
+matemática. Escribió un artículo sobre las bases químicas de la
+morfogénesis y predijo reacciones químicas ocilantes, como la reacción
+de Belousov-Zhabotinsky, que se observó por primera vez en los años
+sesenta.
+
+Turing fue procesado en 1952 por actos homosexuales; La Enmienda
+Labouchere había ordenado que la "indecencia grave" fuera un delito
+penal en el Reino Unido. Aceptó el tratamiento de castración química,
+con DES, como alternativa a la prisión. Turing murió en 1954, 16 días
+antes de cumplir 42 años, debido a una intoxicación por cianuro. Una
+investigación determinó su muerte como suicidio, pero se ha observado
+que la evidencia conocida también es consistente con el envenenamiento
+accidental.
+
+En 2009, luego de una campaña en Internet, el Primer Ministro británico
+Gordon Brown hizo una disculpa pública oficial en nombre del gobierno
+británico por "la manera atros en que lo trataron". La reina Isabel II
+le otorgó a Turing un perdón póstumo en 2013. La ley de Alan Turing es
+ahora un término informal para una ley de 2017 en el Reino Unido que
+indultó o condenó a los hombres de forma retroactiva según la
+legislación histórica que prohibía los actos homosexuales.

@@ -1,0 +1,30 @@
+En ciencias de la computación, la computación evolutiva
+es una familia de algoritmos para la optimización global
+inspirada en la evolución biológica, y el subcampo de la
+inteligencia artificial y el cómputo suave que estudian
+estos algoritmos. En términos técnicos, son una familia
+de resolvedores de problemas mediante prueba y error
+basados en población con un carácter de optimización
+metaheurística o estocástica.
+
+En la computación evolutiva, se genera un conjunto
+inicial de soluciones candidatas y se actualiza
+iterativamente. Cada nueva generación se produce
+eliminando estocásticamente las soluciones menos deseadas
+e introduciendo pequeños cambios aleatorios. En 
+terminología biológica, una población de soluciones está
+sujeta a selección natural (o selección artificial) y
+mutación. Como resultado, la población evolucionará
+gradualmente para aumentar la condición física, en este
+caso, la función de condición física elegida del
+algoritmo.
+
+Las técnicas de computación evolutiva pueden producir
+soluciones altamente optimizadas en una amplia gama de
+configuraciones de problemas, haciéndolas populares en la
+computación. Existen muchas variantes y extensiones,
+adecuadas para familias más específicas de problemas y
+estructuras de datos. La computación evolutiva también se
+usa a veces en la biología evolutiva como un
+procedimiento experimental in silico para estudiar
+aspectos comunes de los procesos evolutivos generales.
